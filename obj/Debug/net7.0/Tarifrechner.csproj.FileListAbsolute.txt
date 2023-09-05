@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Tarifrechner\bin\Debug\net7.0\Tarifrechner.exe
+C:\Users\danie\Documents\GitHub\Tarifrechner\bin\Debug\net7.0\Tarifrechner.deps.json
+C:\Users\danie\Documents\GitHub\Tarifrechner\bin\Debug\net7.0\Tarifrechner.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Tarifrechner\bin\Debug\net7.0\Tarifrechner.dll
+C:\Users\danie\Documents\GitHub\Tarifrechner\bin\Debug\net7.0\Tarifrechner.pdb
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\Tarifrechner.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\Tarifrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\Tarifrechner.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\Tarifrechner.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\Tarifrechner.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\Tarifrechner.dll
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\refint\Tarifrechner.dll
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\Tarifrechner.pdb
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\Tarifrechner.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Tarifrechner\obj\Debug\net7.0\ref\Tarifrechner.dll
