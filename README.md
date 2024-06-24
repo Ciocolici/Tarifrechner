@@ -1,6 +1,6 @@
 # Tarifrechner
-A C# (CSharp) Console App project. A mobile tariff calculator.
+A C# (CSharp) Console App exercise-project, done during my classes for IT Specialist in Application Development by Lutz & Grub Academy. A mobile tariff calculator.
 
-Open "Tarifrechner.sln" to see the code. To run the Console App program directly, launch "Tarifrechner.exe" located in "bin/Debug/net7.0". 
+*To run the Console App program directly, launch "Tarifrechner.exe" located in "bin/Debug/net7.0".*
 
-Note: german language used. 
+*Note: german language used.*
